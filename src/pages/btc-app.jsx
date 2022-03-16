@@ -47,11 +47,28 @@ const Page = () => (
                     <Inner>
                         <Themed.h1>Bitcoin App</Themed.h1>
 
-                        Hi mom!
+                        <Themed.p>
+                            Burayi doldur
+                        </Themed.p>
+                        <Themed.p>
+                            Fill here
+                        </Themed.p>
+
+                        <Themed.h3>App Screenshots</Themed.h3>
 
                         <Themed.p>
-                            Go back to <Link to="/">homepage</Link>.
+                            <Themed.img src="/images/btc1.jpg" height={250} ></Themed.img>
+                            <Themed.img src="/images/btc2.jpg" height={250} ></Themed.img>
+                            <Themed.img src="/images/btc3.jpg" height={250} ></Themed.img>
+                            <Themed.img src="/images/btc4.jpg" height={250} ></Themed.img>
+                            <Themed.img src="/images/btc5.jpg" height={250} ></Themed.img>
+                            <Themed.img src="/images/btc6.jpg" height={250} ></Themed.img>
+                            <Themed.img src="/images/btc7.jpg" height={250} ></Themed.img>
+                            <Themed.img src="/images/btc8.jpg" height={250} ></Themed.img>
+                            <Themed.img src="/images/btc9.jpg" height={250} ></Themed.img>
                         </Themed.p>
+
+                        <Themed.p>Go back to <Link to="/">homepage</Link>.</Themed.p>
                     </Inner>
                 </Content>
             </div>
