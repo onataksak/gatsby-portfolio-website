@@ -48,10 +48,10 @@ const Page = () => (
                         <Themed.h1>Bitcoin App</Themed.h1>
 
                         <Themed.p>
-                            Burayi doldur
+                            Burayi doldur.
                         </Themed.p>
                         <Themed.p>
-                            Fill here
+                            Fill here.
                         </Themed.p>
 
                         <Themed.h3>App Screenshots</Themed.h3>
