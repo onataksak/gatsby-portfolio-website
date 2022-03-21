@@ -49,7 +49,7 @@ const Page = () => (
 
                         <Themed.p>
                             Görüdüğünüz bir sanat eserini, beğendiğiniz bir duvar resmini, bir doğa harikasını artık Art Book
-                            uygulamasıyla fotoğrafını çekebilir ve kaydedebilrisiniz. Dilerseniz dostlarınızında görmesi için
+                            uygulamasıyla fotoğrafını çekebilir ve kaydedebilirsiniz. Dilerseniz dostlarınızında görmesi için
                             sosyal medya platfromlarında paylaşabilirsiniz.
                         </Themed.p>
                         <Themed.p>
