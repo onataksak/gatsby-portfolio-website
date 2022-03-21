@@ -48,10 +48,27 @@ const Page = () => (
                         <Themed.h1>Bitcoin App</Themed.h1>
 
                         <Themed.p>
-                            Burayi doldur.
+                            Her 20 dakikada bir güncellenecek şekilde Dolar/TL, Euro/TL, Pound/TL, Gümüş/TL ve Bam/TL paritelerini anlık takip edin.
+                            Menüden kullanıcının profil sayfasına, hesap detaylarına, işlemlerine ve dünya genelindeki coin borsasını inceleyebilirsiniz.
+                            Coin borsası şu an piyasada olan en önemli coinlerin dolar bazından fiyatlarını yine her 20 dakikada bir güncel olarak göstermektedir.
+                            Hesap detaylarında kullanıcının yatırdığı para miktarı ve kazanılan paraya göre kazanç oranını görüntüleyebilirsiniz. 
+                            Kullanıcı en aşağıdaki butona basarak para çekme talebi oluşturabilir, veya bir sorun yaşadığı zaman yöneticiye mesaj gönderebilir.
+                            Uygulama kullancı adı ve/veya şifre yanlış girildiği zaman otomatik olarak hata vermektedir.
+                            Yönetici paneli ise 3 ana bileşenden oluşur. Kullanıcılar, o anda kayıtlı kullanıcıları görmenize olanak verir. Aktivasyon durumuna göre kırmızı veya mavi renkte görünürler.
+                            Ampul işareti yanıyorsa kullanıcının para çekme isteği, mesaj işareti varsa kullanıcının mesaj göndermek istediğini gösterir. Yeşil tike basarak para çekme işlemini onaylayabilirsiniz.
+                            Arşiv bölümü hangi işlemlerin hangi tarihte gerçekleştiğini gösterir. Kullanıcılar sadece davet üzerinden kullanabildikleri için yönetici kullanıcıları manuel eklemek durumundadır.
                         </Themed.p>
                         <Themed.p>
-                            Fill here.
+                            Follow the parities of Dollar/TL, Euro/TL, GBP/TL, Silver/TL and Bam/TL instantly by updating automatically in every 20 minutes.
+                            From the Menu you can see his/her profile page, account details, actions and the Coin Market worldwide.
+                            Coin Market shows some of most important coins values in US Dollar with automatically updating in every 20 minutes.
+                            Account Details shows how much money the user deposit and the earning ratio depending on income.
+                            Using the button at bottom, the user can make withdrawal request and/or send message to the admin in case of a problem.
+                            The application automatically sends an error message if the username or password entered wrong.
+                            The admin panel has 3 main components. Users shows you the current registered users. Depending on activation status, users may be red or blue.
+                            If the bulb is on, it means the user wants to withdraw money. If the user wants to send a message you can see it with the mark. Click the green tick to approve the request.
+                            Archives shows which transaction happened when. The admin has to add user manually because new users can only be added via invitation.
+                            
                         </Themed.p>
 
                         <Themed.h3>App Screenshots</Themed.h3>
