@@ -48,9 +48,8 @@ const Page = () => (
                         <Themed.h1>Bitcoin App</Themed.h1>
 
                         <Themed.p>
-                            Her 20 dakikada bir güncellenecek şekilde Dolar/TL, Euro/TL, Pound/TL, Gümüş/TL ve Bam/TL paritelerini anlık takip edin.
-                            Menüden kullanıcının profil sayfasına, hesap detaylarına, işlemlerine ve dünya genelindeki coin borsasını inceleyebilirsiniz.
-                            Coin borsası şu an piyasada olan en önemli coinlerin dolar bazından fiyatlarını yine her 20 dakikada bir güncel olarak göstermektedir.
+                            Her 20 dakikada bir güncellenecek şekilde Dolar/TL, Euro/TL, Pound/TL, Gümüş/TL, Bam/TL paritelerini ve önemli coinleri anlık takip edin.
+                            Menüden kullanıcının profil sayfasına, hesap detaylarına, işlemlerine ve dünya genelindeki coin borsasını dolar bazında inceleyebilirsiniz.
                             Hesap detaylarında kullanıcının yatırdığı para miktarı ve kazanılan paraya göre kazanç oranını görüntüleyebilirsiniz. 
                             Kullanıcı en aşağıdaki butona basarak para çekme talebi oluşturabilir, veya bir sorun yaşadığı zaman yöneticiye mesaj gönderebilir.
                             Yönetici paneli ise 3 ana bileşenden oluşur. Kullanıcılar, o anda kayıtlı kullanıcıları görmenize olanak verir. Aktivasyon durumuna göre kırmızı veya mavi renkte görünürler.
@@ -58,9 +57,8 @@ const Page = () => (
                             Arşiv bölümü hangi işlemlerin hangi tarihte gerçekleştiğini gösterir. Kullanıcılar sadece davet üzerinden kullanabildikleri için yönetici kullanıcıları manuel eklemek durumundadır.
                         </Themed.p>
                         <Themed.p>
-                            Follow the parities of Dollar/TL, Euro/TL, GBP/TL, Silver/TL and Bam/TL instantly by updating automatically in every 20 minutes.
+                            Follow the parities of Dollar/TL, Euro/TL, GBP/TL, Silver/TL, Bam/TL and most important coins available instantly updating automatically in every 20 minutes.
                             From the Menu you can see his/her profile page, account details, actions and the Coin Market worldwide.
-                            Coin Market shows some of most important coins values in US Dollar with automatically updating in every 20 minutes.
                             Account Details shows how much money the user deposit and the earning ratio depending on income.
                             Using the button at bottom, the user can make withdrawal request and/or send message to the admin in case of a problem.
                             The admin panel has 3 main components. Users shows you the current registered users. Depending on activation status, users may be red or blue.
