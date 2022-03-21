@@ -51,7 +51,7 @@ const Page = () => (
                             Lighttours uygulaması sayesinde bir sonraki yuriçi/yurtdışı tatilinizi kolay bir şekilde seçebileceksiniz.
                         </Themed.p>
                         <Themed.p>
-                            Thanks to the Lighttours application, you will be able to easily choose your next
+                            Using the Lighttours application, you will be able to easily choose your next
                             domestic/international holiday.
                         </Themed.p>
 
