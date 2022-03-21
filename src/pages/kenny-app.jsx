@@ -48,19 +48,19 @@ const Page = () => (
                         <Themed.h1>Kenny App</Themed.h1>
 
                         <Themed.p>
-                            Catch The Kenny oyunu South park karakteri kenny yakalamak Catch The Kenny oyunu
-                            sayesinde, 3 farklı zorlukta refleks oyunu oynayabilir ve el göz koordinasyonunuzu
+                            Catch The Kenny oyunu ile South Park karakteri Kenny'i yakalamaya çalışın.
+                            3 farklı zorlukta refleks oyunu oynayabilir ve el göz koordinasyonunuzu
                             geliştirebilirsiniz. Refleks, el göz koordinasyonu ve konsantrasyon arttırıcı
-                            Bu basit Catch The Kenny oyunu odaklanma yeteneğinizi geliştirmeyi amaçlıyor.
-                            3 farklı zorluk seviyesi ile kendinize uygun olan seviyeyi seçebilirsiniz.
-                            Catch The Kenny oyunu reflekslerinizi geliştirmenize yardımcı olur.
+                            bu basit oyun odaklanma yeteneğinizi geliştirmeyi amaçlıyor.
+                            Aynı zamanda reflekslerinizi geliştirmenize yardımcı olur.
                         </Themed.p>
                         <Themed.p>
-                            Catch Kenny Game catch South Parl Character kenny thanks to the catch kenny game you can
-                            play reflex game with 3 diffrent features and improve your hand and eye harmony. Reflex hande
-                            ye coordination and concentration enhancer. This simple game of Catch The Kenny aims to
-                            improve your ability to focus. Tou can choose the level that suits you with 3 different difficulty
-                            levels to play with.
+                            Catch Kenny Game catch South Park character Kenny tries to escape your hands! You can
+                            play the game with 3 different difficulties and improve your hand and eye harmony. 
+                            This simple game of Catch The Kenny aims to improve your ability to focus. 
+                            You can choose the level that suits you with 3 different difficulty
+                            levels to play with. Reflex, hand coordination and concentration enhancer.
+                            
                         </Themed.p>
 
                         <Themed.h3>App Screenshots</Themed.h3>
