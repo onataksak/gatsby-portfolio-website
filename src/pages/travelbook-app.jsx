@@ -48,14 +48,14 @@ const Page = () => (
                         <Themed.h1>TravelBook</Themed.h1>
 
                         <Themed.p>
-                            Art Book uygulamasının daha da geliştirilmiş veriyonudur. Bulunduğunuz yeri Google maps
+                            Art Book uygulamasının daha da geliştirilmiş versiyonudur. Bulunduğunuz yeri Google Haritalar
                             yardımıyla gerçek zamanlı takip ederek ve dilerseniz o bölgenin koordinatlarını yol tarifini ve
                             çevresini kayıt ederek ve orayı tekrar ziyaret etmek istediğinizde tek yapmanız gereken
                             telefonunuzdan kayıtlı lokasyonu seçmek.
                         </Themed.p>
                         <Themed.p>
                             It is a further enhanced version of the Art Book application. By following your location in real time
-                            with the help of Google maps, and if you wish, by recording the coordinates of that region,
+                            with the help of Google Maps, and if you wish, by recording the coordinates of that region,
                             directions and surroundings, and when you want to visit that place again, all you have to do is
                             select the saved location from your phone.
                         </Themed.p>
